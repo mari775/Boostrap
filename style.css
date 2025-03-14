@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+#titulo {
+    color: #0a355e;
+    padding-top: 30px;
+    padding-left: 00px;
+}
+
+#TextoExplica {
+    max-width: 600px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+#NavBar {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+#imgStartup {
+    max-width: 100%;
+    height: auto;
+    padding-top: 10px;  
+    padding-bottom: 10px;
+}
+
